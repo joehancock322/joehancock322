@@ -2,12 +2,12 @@
 <hr>
 
 ## Welcome to My Profile
-Hello, I'm Joe Hancock, a student athlete at the University of Denver majoring in Business Information & Analytics with a minor in Computer Science. I strive to be adaptable and eager to learn in every situation. My professional values are integrity, honesty, and commitment. I believe these values will allow me to be the best person that I can be in and out of the workplace with allowing me to truly be myself.
+Hello, I'm Joe Hancock, a student athlete at the University of Denver majoring in Business Information & Analytics with a minor in Computer Science. I strive to be adaptable and eager to learn in every situation. My professional values are integrity, honesty, and commitment. I believe these values will allow me to be the best person that I can be in and out of the workplace while allowing me to truly be myself.
 
 ### About Me
-- IT Intern at United Launch Alliance - systems admin with experience in Ansible, Linux, and RHEL servers.
-- I am an adaptable IT enthusiast with experience in Linux, Python, and data analysis with a DP-900 certification who can optimize performance using ansible and seeking a position where I can continue to learn and use my skills.
-- I am a swimmer at the University of Denver and a three time scholastic all american who can manage time well while still being able to maintain a 3.7 GPA
+- IT Intern at United Launch Alliance - systems administrator with experience in Ansible, Linux, and RHEL servers.
+- I am an adaptable IT enthusiast with experience in Linux, Python, and data analysis with a DP-900 certification with the ability to optimize using ansible and seeking a position where I can continue to learn and use my skills.
+- I am a swimmer at the University of Denver and a three time Scholastic All American who can manage time well while still being able to maintain a 3.7 GPA
 
 
 [**LinkedIn**](https://www.linkedin.com/in/joe-hancock-) 
@@ -41,10 +41,10 @@ Academic and professional projects that I have been able to complete using analy
 - **Problem:** Construct models and predict whether an image of a FNA of a breast mass contains a benign or a malignant tumor
 - **Solution:** Create different models to find predictors of breast cancer. The models I had to create were Decision trees, a Naïve Bayes models, Neural Network models, logistic regressions, and Forest models.
 - **Challenges:** After creating all of these models accurately I had to compare all of these them to find which models had the best accuracy and the best AUC. I had to talk through and write about multiple Confusion Matrixs and what they meant for each test.
-- Below is the image of all the models that I created for this project
+- Below is an image of all the models I created for this project.
 ![image](https://github.com/user-attachments/assets/8710497a-957c-4078-8532-1259a244a835)
 
-### Proejct 2: Automate Server Decommission Process
+### Project 2: Automate Server Decommission Process
 - **Problem:** To decommission servers it took weeks to do it because of how many people were involved
 - **Solution:** Utilize Ansible Automation to automate this process 
 - **Challenges:** I had to learn how to use Ansible and how to incorporate that into the companies platforms. This was difficult because I had to learn everything from scratch and find out all the steps that I would need to automate it.
